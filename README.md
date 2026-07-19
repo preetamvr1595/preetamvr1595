@@ -13,7 +13,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=preetamvr1595&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=preetamvr1595&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=preetamvr1595&theme=radical&no-frame=false&no-bg=true&margin-w=4) ## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=preethamvr1595&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
