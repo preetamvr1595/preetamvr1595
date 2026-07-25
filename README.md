@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on:<br>• AI & Data Analytics Project<br>• Lead Management CRM (Spring Boot Microservices)<br>• LLM & Retrieval-Augmented Generation (RAG) Applications<br><br>🌱 I'm currently learning:<br>Advanced LLMs, Agentic AI, Vector Databases, MLOps, and Cloud Deployment.<br><br>💬 Ask me about:<br>Python, Java, FastAPI, Spring Boot, REST APIs, AI/ML, LLMs, and RAG.<br><br>⚡ Fun fact:<br>I enjoy building AI-powered applications that solve real-world problems, continuously explore new technologies.
+🔭 I'm currently working on:<br>• AI & Data Analytics Project<br>• Lead Management CRM (Spring Boot Microservices)<br>• LLM & Retrieval-Augmented Generation (RAG) Applications<br><br>🌱 I'm currently learning:<br>Advanced LLMs, Agentic AI, Vector Databases, MLOps, and Cloud Deployment.<br><br>💬 Ask me about:<br>Python, Java, FastAPI, Spring Boot, REST APIs, AI/ML, LLMs, and RAG.<br><br>⚡ Fun fact:<br>I enjoy building AI-powered applications that solve real-world problems, continuously explore new technologies .
 
 
 ## 🌐 Socials:
