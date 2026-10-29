@@ -329,13 +329,6 @@ If you're working on machine learning, data science, or useful AI applications, 
 
 
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:070B18,35:111C3D,70:5427A8,100:00D9FF&text=PREETHAM%20V%20R&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20APPLIED%20AI%20%E2%80%A2%20DATA%20SCIENCE&descSize=15&descAlignY=58&animation=twinkling&stroke=00D9FF&strokeWidth=1" />
-
-
-
-
 
 
 
