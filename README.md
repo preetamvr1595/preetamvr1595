@@ -329,6 +329,168 @@ If you're working on machine learning, data science, or useful AI applications, 
 
 
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B1A,45:182848,100:00D4FF&text=PREETHAM%20V%20R&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEERING%20%E2%80%A2%20APPLIED%20AI%20%E2%80%A2%20DATA&descAlignY=59&descSize=16&animation=fadeIn" alt="Preetham V R — AI and Applied AI portfolio" />
+
+Turning curiosity into practical AI projects.
+- M.C.A. — AI & Data Analytics | Aspiring AI/ML Engineer & Applied AI Engineer *
+<a href="https://github.com/preetamvr1595"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
+<a href="https://www.linkedin.com/in/preetham-v-r-865770378/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/preetamvr1595?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20projects-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+</div>
+
+01 / About me
+Hi, I'm Preetham V R, an MCA student specializing in AI & Data Analytics. I'm working toward a career in AI/ML Engineering and Applied AI by strengthening my fundamentals and building practical projects.
+
+I’m interested in the complete journey from data to an application: understanding the problem, preparing the data, testing an approach, evaluating results, and communicating what I learned.
+- 🎓 Education: MCA — AI & Data Analytics
+- 🎯 Career direction: AI/ML Engineer · Applied AI Engineer
+- 🧠 Areas of focus: Python, data analytics, machine learning, NLP, and Generative AI
+- 🧪 How I learn: Understand → implement → evaluate → document → improve
+- 🤝 Open to: Learning, thoughtful collaboration, project feedback, and beginner-friendly open-source contributions
+My principle: Build honestly. Measure carefully. Improve continuously.
+
+02 / Featured work
+These projects represent different parts of my learning journey. Start with the flagship project, then explore the others by area of interest.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🔷 InsightAI Analytics
+AI-powered data analytics project
+
+A project focused on making dataset exploration and analysis more accessible through an application interface.
+
+Explore the project
+- Dataset analysis and insights
+- Data visualisation and analysis workflows
+- Application-oriented analytics
+Repository: InsightAI-Analytics
+</td>
+<td width="50%" valign="top">
+
+🏡 Bengaluru Real Estate Analytics & ML
+Real-estate data analysis
+
+A project exploring property data using analytics and machine-learning techniques.
+
+Questions to investigate
+- How should property data be cleaned?
+- Which features may influence prices?
+- How should regression models be evaluated?
+Repository: bengaluru-real-estate-analytics-ml
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+💬 Sentiment Analysis
+Natural language processing
+
+A project focused on analysing text and exploring sentiment classification.
+
+Areas to document
+- Text preparation and feature extraction
+- Classification experiments
+- Model evaluation and error analysis
+Repository: sentiment-analysis
+</td>
+<td width="50%" valign="top">
+
+🩺 Diabetic Retinopathy Project
+Medical-image AI exploration
+
+An educational project exploring a machine-learning problem involving diabetic-retinopathy images.
+
+As the project develops, its README should clearly describe the dataset, preprocessing, model, evaluation, limitations, and responsible-use considerations.
+
+Repository: New_Diabetic_Retinopathy_Project
+
+Educational project only — not a medical diagnostic tool.
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📘 Foundations project — NumPy Mastery</b></summary>
+
+
+A hands-on repository for practising numerical computing with NumPy, including arrays, indexing, slicing, vectorisation, reshaping, and numerical operations.
+
+Explore NumPy Mastery →
+</details>
+
+03 / My toolkit
+These are tools I use or am actively developing through study and projects. The list reflects my learning journey, not a claim of expert-level proficiency in every tool.
+<div align="center">
+
+
+Languages & data
+<img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Python, Java, and MySQL" />
+
+
+Analytics & machine learning
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+
+
+Development tools
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" alt="Git, GitHub, Jupyter, and VS Code" />
+
+</div>
+
+04 / What I'm working toward
+Focus	Next steps
+Machine learning	Practise complete workflows, data preprocessing, feature engineering, validation, model comparison, and error analysis
+Applied AI	Build useful application workflows and strengthen my understanding of LLM-based systems
+Software engineering	Improve API design, testing, maintainability, and deployment practices
+Project quality	Add clear READMEs, reproducible setup steps, screenshots, and honest evaluation results
+
+
+I prefer to build depth through implementation rather than list technologies I haven't practised.
+05 / GitHub activity
+<div align="center">
+
+<a href="https://github.com/preetamvr1595">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=preetamvr1595&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=CBD5E1" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/preetamvr1595">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetamvr1595&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=CBD5E1" alt="Most used repository languages" />
+</a>
+
+</div>
+
+06 / Let's connect
+I'm keen to learn from other developers, get constructive feedback, and collaborate on useful data and AI projects.
+<div align="center">
+
+
+<a href="https://www.linkedin.com/in/preetham-v-r-865770378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/preetamvr1595?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+
+
+
+Curiosity starts the experiment. Engineering turns it into something useful.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,55:182848,100:080B1A&height=110&section=footer" alt="Decorative footer" />
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
