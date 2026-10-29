@@ -329,7 +329,161 @@ If you're working on machine learning, data science, or useful AI applications, 
 
 
 
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:070B18,35:111C3D,70:5427A8,100:00D9FF&text=PREETHAM%20V%20R&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20APPLIED%20AI%20%E2%80%A2%20DATA%20SCIENCE&descSize=15&descAlignY=58&animation=twinkling&stroke=00D9FF&strokeWidth=1" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=760&height=45&lines=Turning+data+into+decisions.;Building+intelligent+systems%2C+one+experiment+at+a+time.;MCA+%7C+AI+%26+Data+Analytics.;Learning+in+public.+Building+with+purpose." alt="Animated typing intro" />
+
+<a href="https://github.com/preetamvr1595"><img src="https://img.shields.io/badge/GitHub-preetamvr1595-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/preetham-v-r-865770378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-Explore%20notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+whoami — The person behind the code
+I'm Preetham V R, a final-year MCA student specializing in AI & Data Analytics at GM University, Davangere.
+
+I enjoy turning messy data into useful insights and learning how intelligent applications are built — from understanding the data to experimenting with models and creating practical tools.
+- 🎯 Current focus: AI/ML Engineering & Applied AI
+- 🧠 Learning path: Machine Learning → Deep Learning → GenAI / RAG
+- 🧪 My approach: Understand the why, test the how, document the result
+- 🌱 Long-term direction: AI research and intelligent systems
+</td>
+<td width="42%" valign="top">
+
+<img width="100%" src="assets/terminal.svg" alt="Animated terminal card showing Preetham's developer identity" />
+
+</td>
+</tr>
+</table>
+
+01 / Selected builds
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/preetamvr1595/InsightAI-Analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=preetamvr1595&repo=InsightAI-Analytics&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00D9FF&icon_color=9B8CFF" width="100%" alt="InsightAI Analytics repository card" />
+</a>
+
+InsightAI Analytics
+
+A data analytics project focused on exploring information and turning findings into clear, useful insights.
+
+Analytics Python Data storytelling
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/preetamvr1595/bengaluru-real-estate-analytics-ml">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=preetamvr1595&repo=bengaluru-real-estate-analytics-ml&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00D9FF&icon_color=9B8CFF" width="100%" alt="Bengaluru real estate analytics and ML repository card" />
+</a>
+
+
+Bengaluru Real Estate Analytics + ML
+
+Exploring real-estate data and machine-learning workflows around a real-world domain.
+
+EDA Feature engineering ML
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/preetamvr1595/sentiment-analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=preetamvr1595&repo=sentiment-analysis&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00D9FF&icon_color=9B8CFF" width="100%" alt="Sentiment analysis repository card" />
+</a>
+
+
+Sentiment Analysis
+
+Working with text data to explore how language can be categorized and interpreted computationally.
+
+NLP Text data Classification
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/preetamvr1595/New_Diabetic_Retinopathy_Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=preetamvr1595&repo=New_Diabetic_Retinopathy_Project&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00D9FF&icon_color=9B8CFF" width="100%" alt="Diabetic retinopathy project repository card" />
+</a>
+
+
+Diabetic Retinopathy Project
+
+An exploration of an AI-for-healthcare problem through a computer-vision project.
+
+Computer vision Deep learning direction
+</td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary><b>More from my learning lab</b> — fundamentals matter</summary>
+
+- NumPy Mastery — practice with numerical computing fundamentals.
+- Explore all my repositories
+</details>
+
+02 / Tools I work with
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,sklearn,tensorflow&theme=dark" alt="Technology icons" />
+
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+</div>
+
+03 / Current trajectory
+<div align="center">
+
+STAGE	FOCUS	INTENT
+01	Data & statistics	Build reliable intuition from data
+02	Classical machine learning	Understand algorithms, evaluation, and trade-offs
+03	Deep learning	Learn neural networks and representation learning
+04	Applied AI	Build useful GenAI, LLM, and RAG applications
+
+
+</div>
+
+04 / GitHub activity
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/preetamvr1595/preetamvr1595/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake. The animation appears after the workflow is enabled." />
+
+<a href="https://github.com/preetamvr1595">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=preetamvr1595&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00D9FF&icon_color=9B8CFF&text_color=D9E2FF&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/preetamvr1595">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetamvr1595&layout=compact&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00D9FF&text_color=D9E2FF" alt="Most used languages" />
+</a>
+
+</div>
+
+05 / Let's build something meaningful
+I'm interested in learning with other developers, contributing to useful projects, and building practical AI/data applications.
+<div align="center">
+
+
+<a href="https://www.linkedin.com/in/preetham-v-r-865770378/"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=07111F" /></a>
+<a href="https://github.com/preetamvr1595?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-Repositories-9B8CFF?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:5427A8,100:070B18" />
+
+
+<sub>Curiosity in. Experiments out. Progress every day.</sub>
+</div>
 
 
 
