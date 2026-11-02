@@ -332,72 +332,36 @@ These are the projects that best represent the areas I am exploring. Each reposi
 
 ---
 
-## `04` — My technology toolkit
-
-These are the tools I use or explore across my current projects. My proficiency is developing through practice.
-
-<div align="center">
-
-### Languages & Data
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Python, Java, and MySQL"/>
-
-### Machine Learning & Analytics
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-
-### Application Development
-
-<img src="https://skillicons.dev/icons?i=react,fastapi,git,github,vscode" alt="React, FastAPI, Git, GitHub, and VS Code"/>
-
-### Working Environment
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-
 <br/><br/>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,mysql&perline=4&theme=dark" alt="MongoDB, PostgreSQL, Supabase, MySQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&perline=3&theme=dark" alt="MongoDB, PostgreSQL, Supabase"/>
 
 ### Web & Application Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,vite,flask&perline=7&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Next.js, Vite, Flask"/>
 
-### DevOps & Cloud
+### Gen AI & ML Tools
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux&perline=4&theme=dark" alt="Docker, GitHub Actions, AWS, Linux"/>
-
-### ML Ops, Gen AI & Analytics
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
-<img src="https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge" alt="SHAP"/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+
+### Data Visualization & BI
+
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-
-<br/><br/>
 
 ### ML Pipeline: Tools at Every Stage
 
 | 🧱 Stage | 🔧 Tools I use |
 |:---|:---|
 | **Data & EDA** | Python · NumPy · Pandas · Matplotlib · Seaborn |
-| **Features & Models** | Scikit-learn · LightGBM · XGBoost · PyTorch |
-| **Evaluation & Explainability** | Cross-validation · ROC-AUC · F2 threshold tuning · SHAP |
-| **Experiment Tracking** | MLflow · Jupyter · Kaggle |
-| **Serving & Delivery** | FastAPI · Docker · GitHub Actions · AWS Lambda |
+| **Features & Models** | Scikit-learn · XGBoost · PyTorch |
+| **Evaluation** | Cross-validation · ROC-AUC · F2 threshold tuning |
 | **LLMs & RAG** | Hugging Face · ChromaDB · LoRA · DPO |
-
-</div>
 
 ---
 
