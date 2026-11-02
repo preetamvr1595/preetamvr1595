@@ -334,6 +334,27 @@ These are the projects that best represent the areas I am exploring. Each reposi
 
 <br/><br/>
 
+## `04` — My technology toolkit
+
+These are the tools I use or explore across my current projects. My proficiency is developing through practice.
+
+<div align="center">
+
+### Languages & Data
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Python, Java, and MySQL"/>
+
+### Machine Learning & Analytics
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+
+### Application Development
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,git,github,vscode" alt="React, FastAPI, Git, GitHub, and VS Code"/>
+
+### Working Environment
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
 
 ### Databases
 
@@ -345,12 +366,7 @@ These are the projects that best represent the areas I am exploring. Each reposi
 
 ### Gen AI & Analytics
 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/> <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
 ### ML Pipeline: Tools at Every Stage
 
@@ -360,6 +376,13 @@ These are the projects that best represent the areas I am exploring. Each reposi
 | **Features & Models** | Scikit-learn · XGBoost · PyTorch |
 | **Evaluation** | Cross-validation · ROC-AUC · F2 threshold tuning |
 | **LLMs & RAG** | Hugging Face · ChromaDB · LoRA · DPO |
+
+</div>
+
+---
+
+
+
 ---
 
 ## `05` — What I'm learning next
