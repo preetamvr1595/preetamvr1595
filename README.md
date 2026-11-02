@@ -334,22 +334,20 @@ These are the projects that best represent the areas I am exploring. Each reposi
 
 <br/><br/>
 
+
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&perline=3&theme=dark" alt="MongoDB, PostgreSQL, Supabase"/>
 
-### Web & Application Development
+### Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,vite,flask&perline=7&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Next.js, Vite, Flask"/>
 
-### Gen AI & ML Tools
+### Gen AI & Analytics
 
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-
-### Data Visualization & BI
-
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
@@ -362,7 +360,6 @@ These are the projects that best represent the areas I am exploring. Each reposi
 | **Features & Models** | Scikit-learn · XGBoost · PyTorch |
 | **Evaluation** | Cross-validation · ROC-AUC · F2 threshold tuning |
 | **LLMs & RAG** | Hugging Face · ChromaDB · LoRA · DPO |
-
 ---
 
 ## `05` — What I'm learning next
